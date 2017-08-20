@@ -1,1 +1,1 @@
-web: gunicorn tibanica.wsgi
+web: gunicorn tibanicaDjango.wsgi --log-file -

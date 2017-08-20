@@ -1,1 +1,1 @@
-web: gunicorn emmalabs.wsgi
+web: gunicorn tibanica.wsgi
